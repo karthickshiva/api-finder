@@ -69,7 +69,3 @@ Description: GET /users List all users Returns a list of users in the system Par
 3. When a query is received, it's converted to the same embedding space
 4. Cosine similarity is used to find the most relevant endpoints
 5. Results are returned with confidence scores
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
